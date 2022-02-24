@@ -1,0 +1,20 @@
+
+Warning 
+fg= ecolor
+main bg =self.fg_title
+onentry=  '#963403'
+
+Red 
+fg = ecolor
+main bg ='#d9534f'
+onentry=  '#a6201c'
+
+success
+fg = ecolor
+main bg ='#5cb85c'
+onentry=  '#2e872e'
+
+blue 
+fg = ecolor
+main bg ='#5cb85c'
+onentry=  '#03559c'
